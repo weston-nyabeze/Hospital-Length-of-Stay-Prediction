@@ -335,27 +335,6 @@ This analysis addresses these challenges through predictive modeling and compara
 ### Visualization & Reporting
 - `ggplot2`, `corrplot`, `gridExtra`, `plotly`
 - `Quarto`, `knitr`
-
----
-
-## How to Use
-
-### System Requirements
-- R ≥ 4.5.0
-- RStudio (recommended)
-- 2–4 GB RAM or more
-
-### Steps
-1. Clone the repository
-2. Install required R packages
-3. Download the MDC CSV from HCAI and place it in a `data/` folder
-4. Render `portfolio_4_hospital_los.qmd` to generate the full HTML report
-
-### Outputs
-- HTML report with narrative, tables, and plots
-- PNG plots in the `Plots/` folder
-- Optional model objects and summary data for reuse
-
 ---
 
 ## Author
@@ -366,6 +345,11 @@ Healthcare Data Analyst
 Open to healthcare analytics, data science, and health services research roles.
 
 ---
+## Acknowledgments
+
+-**California Department of Healthcare Access and Information (HCAI)** for providing the Major Diagnostic Categories Summary dataset
+- **American University** for academic support
+- **Perplexity AI** for research assistance, code development, and analytical guidance
 
 ## Dataset Attribution
 
